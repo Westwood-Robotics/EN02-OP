@@ -18,7 +18,7 @@ Most parts on EN02-OP can be 3D printed, and all hadrware is standard and avalib
 All design files of EN02-OP is included in [EN02-OP.STEP](/Design/EN02-OP.STEP). To make import easier, the 3D model of EN02OP-PWR(Board for voltage regulation and communication ports) is excluded from the model and provided seperatly in [EN02-PWR.step](/Design/EN02-PWR.step). Refer to [EN02-OP-BOM.xls](/Design/EN02-OP-BOM.xls) for the complete BOM of EN02-OP.
 
 For your convenient, all parts that can be 3D printed are included in the [/Design/Parts_to_Print](/Design/Parts_to_Print/) folder. \
-Feel free to go with your favorate materials for the parts in the [../Parts_to_Print/General](/Design/Parts_to_Print/General/) folder, such as PLA, PETG, ABS and Nylon, but it is highly recommended to print the parts in the [../Parts_to_Print/CF_Reinforced](/Design/Parts_to_Print/CF_Reinforced/) folder with carbon fiber/glass fiber reinforced materials for better strength and durability, such as Bambu PAHT-CF. The parts are highlighted in blue in the picture below:
+Feel free to go with your favorate materials for the parts in the [../Parts_to_Print/General](/Design/Parts_to_Print/General/) folder, such as PLA, PETG, ABS and Nylon, but it is highly recommended to print the parts in the [../Parts_to_Print/CF_Reinforced](/Design/Parts_to_Print/CF_Reinforced/) folder with carbon fiber/glass fiber reinforced materials for better strength and durability, such as Bambu PAHT-CF. The parts are highlighted in blue in the picture below:\
 <img src="/Pics/proximal.png" width="400">
 
 **Modify [EN02-PALM_BASE](/Design/Parts_to_Print/General/Modify_Before_Printing/EN02-PALM_BASE.STEP) before printing!** \
