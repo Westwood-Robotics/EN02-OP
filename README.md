@@ -1,8 +1,8 @@
 # EN02-OP
 
 EN02-OP is the Open Source 3-Finger End-Effector created by Westwood Robotics and equiped on our full-size humanoid robot THEMIS. A very simple yet versital 7DoF design is adopter, enabling the end-effector to change into the best poses for all kinds of items. \
-<img src="Pics/EN02OP.png" width="300"> <img src="Pics/photos/1.jpg" width="300"> <img src="Pics/photos/2.jpg" width="300">\
-<img src="Pics/photos/3.jpg" width="300"> <img src="Pics/photos/4.jpg" width="300"> <img src="Pics/photos/5.jpg" width="300">\
+<img src="Pics/EN02OP.png" width="200"> <img src="Pics/photos/1.jpg" width="200"> <img src="Pics/photos/2.jpg" width="200">\
+<img src="Pics/photos/3.jpg" width="200"> <img src="Pics/photos/4.jpg" width="200"> <img src="Pics/photos/5.jpg" width="200">\
 Most parts on EN02-OP can be 3D printed, and all hadrware is standard and avalible off-the-shelf. The standard actuators on EN02-OP are the XC-330-M288-T($98.89/ea) from Dynamixel, but if the anticipated payload is realtively small, XL-330($26.29/ea) can be adopted for lower cost.
 
 [Contact us](https://www.westwoodrobotics.io/contact/) to order an official version, or ***Build your EN02-OP for as low as $200!*** \
