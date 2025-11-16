@@ -44,18 +44,7 @@ Other models of XC330 actuators such as the T288 and the T181 models require 12V
 
 
 ## Assembly Notes
-It can be tricky when comes to cable management, and we suggest to route the cables for the actuators on EN02-OP as following:\
-
-a. Route the cable between the two actuators on the index fingers as shwon in the image below with the red line, then cover the cable on the inside of the *INDEX_MIDDLE_PHALANX* with foam tape of 0.5mm or 1mm thickness, as highlighted in blue:\
-<img src="Pics/wire1.png" width="400">
-
-b. As indicated with the orange line, thread the cable from the back of the actuator on the *INDEX_MIDDLE_PHALANX* into the *PALM_BASE* via the openning, and connect it to the port on EN02-PWR:\
-<img src="Pics/wire2.png" width="400">
-
-c. As indicated with the red line, thread the cable from the back of the actuator on the *THUMB_MIDDLE_PHALANX* to the actuator on the base joint, and connect the actuator on the base joint to the actuator in the palm as indicated with orange line. Connect the actuator in the palm to the port on EN02-PWR:\
-<img src="Pics/wire3.png" width="400">
-> [!TIP]
-> Connect the cables to the base joint actuator first and thread them through the designed passage on *PALM_MIDHOUSING* while inserting the actautor into *PALM_MIDHOUSING*.
+Please refer to [EN02 Assembly Guide.pdf](/EN02_Assembly_Guide.pdf) for detailed assemble instructions. Feel free to contact us should you encounter any challenge.
 
 ## Control Software
 There is no dedicated control software for EN02-OP at the moment. It is realatively easy to work with given its simple structure, and please refer to https://emanual.robotis.com/docs/en/dxl/x/xc330-m288/ for more information on how to work with Dynamixel actuators.
