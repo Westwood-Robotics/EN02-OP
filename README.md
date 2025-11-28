@@ -1,3 +1,6 @@
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/Westwood-Robotics/EN02-OP/blob/main/LICENSE)
+
 # EN02-OP
 
 EN02-OP is the Open Source 3-Finger End-Effector created by Westwood Robotics and equiped on our full-size humanoid robot THEMIS. A very simple yet versital 7DoF design is adopter, enabling the end-effector to change into the best poses for all kinds of items. \
@@ -7,6 +10,9 @@ Most parts on EN02-OP can be 3D printed, and all hadrware is standard and avalib
 
 [Contact us](https://www.westwoodrobotics.io/contact/) to order an official version, or ***Build your EN02-OP for as low as $200!*** \
 <sub> (Cost estimation based on using XL-330 for all 7DoF, parts printed with generic PLA material and Bambu PAHT-CF, and EN02OP-PWR PCBA assembled in-house. Tools and equipment not included.)  </sub>
+
+## Build EN02-OP with Kevin!
+Follow [this tutorial](https://www.youtube.com/watch?v=WY0bp_8Il1o) by [Kevin Wood](https://github.com/kevinwoodrobotics) to build your EN02-OP!
 
 ## Before You Start
 ### Know The Design
@@ -54,6 +60,5 @@ The work in this repo is under GNU General Public License (GPL) version 3, which
 
 Contact us for commercial license should you need full rights to create and distribute the platform on your own terms without any open-source license obligations.
 
-## Future Work
-Assembly videos will be uploaded.
+
 
